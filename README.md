@@ -4,6 +4,12 @@ Generation of globally unique, monotonous identifiers.
 
 CLI for [xid](https://github.com/rs/xid)
 
+## Installation
+
+```sh
+go install github.com/ink-splatters/xid-cli/cmd/xid@latest
+```
+
 ## Usage
 
 Just type
